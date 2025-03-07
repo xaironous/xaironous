@@ -20,7 +20,7 @@ I am a **Computer Engineering graduate** with a passion for **Data Analytics, Ma
 ## 📚 Portfolio  
 Explore my **Data & IoT Projects** in my portfolio:  
 
-🔗 **[View My Portfolio](#)**  
+🔗 **[View My Portfolio](https://github.com/xaironous/Portfolio/blob/main/README.md)**  
 
 ---
 

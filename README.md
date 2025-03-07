@@ -33,7 +33,15 @@ Explore my **Data & IoT Projects** in my portfolio:
 
 ### **IoT & Embedded Systems**  
 - **Hardware**: ESP32, Arduino, FPGA (Xilinx Spartan 3E)   
-- **Platforms**: Google Colab, Jupyter Notebook  
+- **Platforms**: Google Colab, Jupyter Notebook
+
+## 🏅 Certifications  
+- **Google Advanced Data Analytics Professional Certificate** – Coursera (In Progress)
+- **Google Data Analytics Professional Certificate** – Coursera (Mar 2025)    
+- **Microsoft Power BI Skill Specialization** – MySkill.id (Dec 2023)  
+- **Google Looker Studio Skill Specialization** – MySkill.id (Dec 2023)
+- **MySQL for Data Analyst Skill Specialization Certification** – MySkill.id (Dec 2023)
+- **Python for Data Analyst Skill Specialization Certification** – MySkill.id (Dec 2023)
 
 ---
 
